@@ -1,4 +1,3 @@
-# 🐾 Welcome! 
 **_"Cuteness that makes sense."_**  
 
 Welcome to **CuteSense Studios**, where we blend **wholesome vibes**, **smart ideas**, and **creativity** into things that make you go _"aww"_ and _"oooh"_ at the same time.  
