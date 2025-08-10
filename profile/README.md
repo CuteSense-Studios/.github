@@ -1,5 +1,3 @@
-**_"Cuteness that makes sense."_**  
-
 Welcome to **CuteSense Studios**, where we blend **wholesome vibes**, **smart ideas**, and **creativity** into things that make you go _"aww"_ and _"oooh"_ at the same time.  
 
 Whether it’s games, art, or little projects that spark joy — we believe cuteness should *always* have a purpose.  
