@@ -27,7 +27,7 @@ Think:
 ---
 
 ## 💌 Connect With Us  
-🐾 **[Subscribe on YouTube](https://youtube.com/@cutesense9?si=mHXEe9oOyYKQWs4Q)**  
+🐾 **[Subscribe on YouTube](https://youtube.com/@cutesensestudios?si=rJ08MP7U5VJIRbRN)**  
 
 ---
 
