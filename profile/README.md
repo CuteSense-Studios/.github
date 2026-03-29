@@ -9,7 +9,7 @@ We are currently developing **As You Are**, a visual novel built in the Ren'Py e
 ### 🛠 Technical Showcase & Templates
 We believe in supporting the gamedev community. As part of the development of *As You Are*, we have released our core technical framework as a public template.
 
-* **[Ren'Py Visual Novel Template](LINK_HERE)**: A clean, optimized, and documented foundation for Ren'Py projects. Features include custom GUI elements and organized script structures.
+* **[Ren'Py Visual Novel Template](https://github.com/CuteSense-Studios/As-You-Are-T)**: A clean, optimized, and documented foundation for Ren'Py projects. Features include custom GUI elements and organized script structures.
 
 ---
 
