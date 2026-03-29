@@ -1,6 +1,6 @@
 # 🎀 CuteSense Studios
 
-Welcome to **CuteSense Studios**! We are a small indie collective dedicated to creating emotive, high-quality digital experiences, with a current focus on narrative-driven games and open-source tools.
+Welcome to **CuteSense Studios**! We are a small indie collective dedicated to creating emotive, high-quality digital experiences, with a current focus on narrative-driven games and open-source game development tools.
 
 ## 🚀 Current Project: *As You Are*
 
