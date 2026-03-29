@@ -4,7 +4,7 @@ Welcome to **CuteSense Studios**! We are a small indie collective dedicated to c
 
 ## 🚀 Current Project: *As You Are*
 
-We are currently developing **As You Are**, a visual novel built in the Ren'Py engine. This project explores themes of identity and self-discovery through a personal lens.
+We are currently developing **As You Are**, a visual novel built in the Ren'Py engine. This project explores themes of community bonding and self-discovery through a personal lens.
 
 ### 🛠 Technical Showcase & Templates
 We believe in supporting the gamedev community. As part of the development of *As You Are*, we have released our core technical framework as a public template.
