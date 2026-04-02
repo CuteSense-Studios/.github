@@ -50,7 +50,7 @@ We are currently focused on several key areas of impact:
 If you believe in quality art that is openly created and supporting diverse industry voices, we invite you to explore our repositories.
 
 * **GitHub**: [github.com/CuteSense-Studios](https://github.com/CuteSense-Studios)
-* **Mission**: Art with Heart.
+* **Official Website**: [github.io/Official-Website](https://cutesense-studios.github.io/Official-Website/)
 
 ---
 
