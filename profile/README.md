@@ -1,22 +1,57 @@
 # 🎀 CuteSense Studios
 
-Welcome to **CuteSense Studios**! We are a small indie collective dedicated to creating emotive, high-quality digital experiences, with a current focus on narrative-driven games and open-source game development tools.
+> **"Cuteness that makes sense!"**
+> 道理にかなう可愛さ！~ • ऐसी क्यूटनेस जो समझ में आए!~ • বুদ্ধিদীপ্ত মিষ্টি ভাব!~
 
-## 🚀 Current Project: *As You Are*
-
-We are currently developing **As You Are**, a visual novel built in the Ren'Py engine. This project explores themes of community bonding and self-discovery through a personal lens.
-
-### 🛠 Technical Showcase & Templates
-We believe in supporting the gamedev community. As part of the development of *As You Are*, we have released our core technical framework as a public template.
-
-* **[Ren'Py Visual Novel Template](https://github.com/CuteSense-Studios/As-You-Are-T)**: A clean, optimized, and documented foundation for Ren'Py projects. Features include custom GUI elements and organized script structures.
+Welcome to the official profile of **CuteSense Studios**, an initiative dedicated to empowering creative new voices through high-quality open-source tools and human-AI partnership. We believe that art should be emotive, accessible, and inclusive.
 
 ---
 
-## 🏗 What We’re Building
-* **Visual Novels:** Focusing on deep storytelling and atmospheric art.
-* **Voxel Worlds:** Exploring the limits of the Minetest engine (Project *Akera*).
-* **Open Source:** Sharing our scripts, shaders, and workflow tools on GitHub.
+## ✨ Our Philosophy
+
+At CuteSense, we build with heart. Our work is guided by six core pillars that drive every project we undertake:
+
+* **💎 High Quality**: Creating premium digital tools and experiences that feel premium for all.
+* **📦 Open Source**: Developing and publishing frameworks to support the global creative community.
+* **🌈 Diversity**: Actively supporting and uplifting minorities within the tech and game development fields.
+* **🤖 Transparency**: Championing honest, high-quality human-AI partnerships and being transparent about AI use.
+* **📣 Advocacy**: Advocating for creative and diverse new industry voices around the world.
+* **🌸 CuteSense**: Designing with an aesthetic where "cuteness" is intentional and meaningful.
 
 ---
-*Created with ❤️ by Crossie and the CuteSense team.*
+
+## 🛠️ Tech Stack & Transparency
+
+In alignment with our mission, we maintain a modern and modular stack. We prioritize tools that allow for rapid iteration and community contribution while being transparent about our development process:
+
+* **Frontend & Design**: We utilize utility-first styling frameworks and lightweight vector iconography to ensure responsive, accessible, and "emotive" user interfaces.
+* **Backend & Infrastructure**: Our systems leverage industry-standard cloud services for secure authentication and real-time community engagement.
+* **Human-AI Partnership**: CuteSense Studios is a pioneer in collaborative creation. Our projects are developed through a transparent partnership between human creativity and AI models.
+
+---
+
+## 🚀 What We Do
+
+We are currently focused on several key areas of impact:
+* **Game Development**: Creating emotive experiences and open-source frameworks for independent developers.
+* **Digital Art & Tools**: Publishing high-quality UI/UX components and creative templates.
+* **Educational Reform**: Long-term goals include contributing to a more inclusive work culture and advocating for positive social impact.
+
+---
+
+## 🎨 Leadership
+
+* **Founder**: Crossie (Chief Creative)
+
+---
+
+## 🤝 Connect With Us
+
+If you believe in quality art that is openly created and supporting diverse industry voices, we invite you to explore our repositories.
+
+* **GitHub**: [github.com/CuteSense-Studios](https://github.com/CuteSense-Studios)
+* **Mission**: Art with Heart.
+
+---
+
+*© 2026 CuteSense Studios • Built with Gemini*
