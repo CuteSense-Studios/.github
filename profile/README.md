@@ -18,9 +18,5 @@ We believe in supporting the gamedev community. As part of the development of *A
 * **Voxel Worlds:** Exploring the limits of the Minetest engine (Project *Akera*).
 * **Open Source:** Sharing our scripts, shaders, and workflow tools on GitHub.
 
-## 📬 Connect With Us
-* **GitHub:** 
-* **Devlog:** Stay tuned for updates on our latest builds!
-
 ---
 *Created with ❤️ by Crossie and the CuteSense team.*
