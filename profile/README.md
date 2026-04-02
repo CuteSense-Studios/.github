@@ -1,7 +1,6 @@
 # 🎀 CuteSense Studios
 
 > **"Cuteness that makes sense!"**
-> 道理にかなう可愛さ！~ • ऐसी क्यूटनेस जो समझ में आए!~ • বুদ্ধিদীপ্ত মিষ্টি ভাব!~
 
 Welcome to the official profile of **CuteSense Studios**, an initiative dedicated to empowering creative new voices through high-quality open-source tools and human-AI partnership. We believe that art should be emotive, accessible, and inclusive.
 
